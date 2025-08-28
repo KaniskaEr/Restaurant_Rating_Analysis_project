@@ -46,8 +46,8 @@ data_dictionary.csv → Description of all fields
 
 Clone this repository:
 
-git clone https://github.com/your-username/Restaurant-ratings-analysis.git
-cd Restaurant-ratings-analysis-main
+git clone https://github.com/KaniskaEr/Restaurant_Rating_Analysis_project.git
+cd Restaurant_Rating_Analysis_project-main
 
 
 Open Restaurant Ratings Analysis.pbix in Power BI Desktop
